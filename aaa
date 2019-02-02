@@ -1,0 +1,8 @@
+function setup(){
+create canvas(400,400);
+}
+function draw(){
+background(250,0,100);
+line(0,0,399,399);
+rect(150,150,100,100);
+}
